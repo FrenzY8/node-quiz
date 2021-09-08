@@ -1,2 +1,2 @@
 # node-quiz
-simple quiz in console with nodejs used Readline!
+simple quiz in console with nodejs used Readline! ( Begginer Only! )
